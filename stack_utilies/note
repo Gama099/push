@@ -1,0 +1,13 @@
+push  ...
+clean node ...
+last node ...
+create node ...
+
+i can do atoi plus and atoi
+
+
+
+error(arr, av, *free_av);
+
+
+ft_atoi(av[i++], av, *free_av)
